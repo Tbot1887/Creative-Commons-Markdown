@@ -18,16 +18,6 @@ On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announce
 * `BY-SA` – [Attribution-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-sa.markdown)
 * `CC0` – [CC0](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/zero.markdown)
 
-## File extension
-
-There's a plethora of Markdown file extensions, but I have decided to go with `markdown`. Read why:
-
-*"We no longer live in a 8.3 world, so we should be using the most descriptive file extensions. It’s sad that all our operating systems rely on this stupid convention instead of the better creator code or a metadata model, but great that they now support longer file extensions."*  
-Hilton Lipschitz ([via](http://hiltmon.com/blog/2012/03/07/the-markdown-file-extension/))
-
-*"…the only file extension I would endorse is “.markdown”, for the same reason offered by Hilton Lipschitz"*  
-John Gruber, creator of Markdown ([via](http://daringfireball.net/linked/2014/01/08/markdown-extension))
-
 ## Usage
 
 There are other ways to get the licenses than downloading the [latest release](https://github.com/idleberg/Creative-Commons-Markdown/releases/latest) in your browser:
